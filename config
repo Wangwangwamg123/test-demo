@@ -1,0 +1,5 @@
+# 这是一个用于测试泄露扫描的假文件
+AWS_ACCESS_KEY_ID = "AKIAIOSFODNN7EXAMPLE"
+AWS_SECRET_ACCESS_KEY = "wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
+DB_CONNECTION = "mysql://root:SuperSecretPassword123@127.0.0.1:3306/test_db"
